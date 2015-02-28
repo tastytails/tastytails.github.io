@@ -150,7 +150,7 @@ nav.off-screen .bottom-content ul li{ font-size: 11px; margin-bottom: 6px; }
 .photo-container{ position: absolute; height: 100%; top: 0px;  }
 .no-pad .columns{ padding: 88px 0px 99px 0px; }
 .no-pad p.columns{ padding: 0px 15px; }
-.no-pad .columns hr{ border-color: #aaa; }	
+.no-pad .columns hr{ border-color: #aaa; }
 
 /***** MENU *****/
 
@@ -176,7 +176,7 @@ nav.off-screen .bottom-content ul li{ font-size: 11px; margin-bottom: 6px; }
 .menu-dark .medium-4.columns{ padding: 0px 30px; }
 .menu-dark .dietary{ background: #666; }
 
-.menu-3 .columns:last-child{ float: none !important; }
+.menu-5 .columns:last-child{ float: none !important; }
 
 .menu-filters{ overflow: hidden; display: inline-block; margin-bottom: 44px; }
 .menu-filters li{ float: left; margin-right: 33px; text-transform: uppercase; cursor: pointer; padding: 3px 0px 3px 3px; font-weight: bold; font-size: 13px; letter-spacing: 3px; color: #333; }

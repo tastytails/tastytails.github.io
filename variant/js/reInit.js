@@ -143,7 +143,7 @@ function reInit(target){
             var imgSrc = jQuery(this).children('.background-image').attr('src');
             jQuery(this).css('background', 'url("' + imgSrc + '")');
             jQuery(this).children('.background-image').hide();
-            $(this).css('background-position', '50% 0%');
+            $(this).css('background-position', '0% 0%');
             // Check if the slider has a color scheme attached, if so, apply it to the slider nav
 
         }
@@ -179,7 +179,7 @@ function reInit(target){
         var imgSrc = $(this).children('.background-image').attr('src');
         $(this).css('background', 'url("' + imgSrc + '")');
         $(this).children('.background-image').hide();
-        $(this).css('background-position', '50% 0%');
+        $(this).css('background-position', '0% 0%');
         // Check if the slider has a color scheme attached, if so, apply it to the slider nav
     });
 

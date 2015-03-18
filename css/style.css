@@ -277,7 +277,7 @@ nav.off-screen .bottom-content ul li{ font-size: 11px; margin-bottom: 6px; }
 /***** FOOTERS *****/
 
 .footer-container{ -webkit-transition: all .5s ease; transition: all .5s ease; -moz-transition: all .5s ease; -webkit-transform: translate3d(0,0,0); -moz-transform: translate3d(0,0,0); transform: translate3d(0,0,0); position: relative; }
-
+.footer-container iframe{ width: 40%; height: 450px; border: none; margin-right: 4.75%; margin-left: 4.75%;  }
 footer{ background: #333; padding: 88px 0px; }
 
 .footer-text h6{ color: #8e8e8e; font-size: 12px; font-weight: bold; margin-bottom: 22px; font-family: 'Raleway',"Helvetica Neue", "Helvetica", Helvetica, Arial; }

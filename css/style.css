@@ -210,19 +210,19 @@ nav.off-screen .bottom-content ul li{ font-size: 11px; margin-bottom: 6px; }
 .contact-method h6{ font-size: 14px; }
 .contact-method p{ line-height: 26px; }
 
-.contact-2 .map-holder{ width: 100%; height: 350px; overflow: hidden; }
+.contact-2 .map-holder{ width: 50%; height: 350px; overflow: hidden; }
 .contact-2 iframe{ border: none; width: 40%; height: 350px; margin: 10%;}
 .contact-2 .methods-holder{ overflow: hidden; background: rgba(255,255,255,0.9); height: 350px; padding: 38px 33px 33px 38px; }
 
 .contact-1 .overlay{ opacity: 0.7; }
 
 .map{ height: 450px; }
-.map iframe{ width: 100%; height: 450px; border: none; }
+.map iframe{ width: 50%; height: 450px; border: none; }
 .map .map-holder .overlay{ background: none !important; }
 
-.contact-3 .map-holder{ overflow: hidden; position: absolute; height: 100%; width: 100%; top: 0px; z-index: 0; }
+.contact-3 .map-holder{ overflow: hidden; position: float; height: 100%; width: 40%; top: 0px; z-index: 0; }
 .contact-3 .map-holder .overlay{ z-index: 1; opacity: 0.8; }
-.contact-3 iframe{ width: 100%; height: 100%; border: none;  }
+.contact-3 iframe{ width: 40%; height: 450px; border: none; margin-right: 4.75%; margin-left: 4.75%;  }
 .contact-3 .row{ position: relative; z-index: 2; }
 
 .contact-3{ padding: 121px 0px; }

@@ -289,7 +289,7 @@ footer{ background: #333; padding: 88px 0px; }
 .social-profiles li{ float: left; margin-right: 22px; display: inline-block; }
 .social-profiles li:last-child{ margin-right: 0px; }
 .social-profiles li a{ width: 40px; height: 40px; display: inline-block; border-radius: 50%; background: #555; color: #333; font-size: 20px; text-align: center; padding-top: 6px; }
-
+ #yelp { width: 30px; height: 25px; }
 .footer-social .contact-details{ overflow: hidden; display: inline-block; margin-bottom: 22px; }
 .footer-social .contact-details li{ float: left; margin-right: 22px; text-transform: uppercase; font-weight: bold; font-size: 12px; }
 .footer-social .contact-details li:after{ content: '|'; margin-left: 22px; }
